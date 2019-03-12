@@ -1,0 +1,20 @@
+{
+  "name": "smartbanksmartcomparison-",
+  "version": "1.0.0",
+  "description": "a comparison site for different smart banks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiskaC/SmartBankSmartComparison-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiskaC/SmartBankSmartComparison-/issues"
+  },
+  "homepage": "https://github.com/LiskaC/SmartBankSmartComparison-#readme",
+  "keywords": []
+}
